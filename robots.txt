@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sudeeppaudel210-dotcom.github.io/goldenpeak/sitemap.xml
